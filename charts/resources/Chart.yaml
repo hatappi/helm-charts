@@ -2,7 +2,7 @@ apiVersion: v2
 name: resources
 version: 0.1.0
 appVersion: 0.1.0
-description: Apply manifest files
+description: Apply raw manifest files
 home: https://github.com/hatappi/helm-charts
 maintainers:
   - name: hatappi
